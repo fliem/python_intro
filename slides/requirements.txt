@@ -1,0 +1,8 @@
+spacy
+nilearn
+pyttsx3
+pliers
+altair
+vega_datasets
+plotly
+missingno

@@ -1,0 +1,16 @@
+subject,sex,age,score
+sub0,F,58,67
+sub1,M,78,87
+sub2,F,77,83
+sub3,M,25,34
+sub4,F,69,70
+sub5,M,69,78
+sub6,F,78,87
+sub7,M,26,30
+sub8,F,61,64
+sub9,M,77,81
+sub10,F,26,33
+sub11,M,45,52
+sub12,F,43,45
+sub13,M,31,37
+sub14,F,46,54
