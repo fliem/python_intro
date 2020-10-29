@@ -26,12 +26,16 @@ installed just now)
 
 Type the following into the prompt and hit enter:
 ```
-which python
+python -c "import sys;print(sys.executable)"
 ```
 
 This should print the path to anaconda's python executable, something like this on Mac:
 ```
 /Users/your_username/opt/anaconda3/bin/python
+```
+or this on Windows:
+```
+C:\Users\your_username\anaconda3\python.exe
 ```
 
 ### VS Code
