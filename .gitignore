@@ -1,5 +1,5 @@
 .idea/
-slides/*.html
+*.slides.html
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
