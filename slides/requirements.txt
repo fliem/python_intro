@@ -6,3 +6,5 @@ altair
 vega_datasets
 plotly
 missingno
+plac
+
